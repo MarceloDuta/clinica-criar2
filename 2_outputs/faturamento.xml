@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<tiss:mensagemTISS xmlns:tiss="http://www.ans.gov.br/padroes/tiss/schemas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" versao="4.01.00">
+  <tiss:cabecalho>
+    <tiss:identificacaoTransacao>1</tiss:identificacaoTransacao>
+    <tiss:dataRegistro>2026-09-06T19:39:42</tiss:dataRegistro>
+    <tiss:horaRegistro>19:39:42</tiss:horaRegistro>
+  </tiss:cabecalho>
+  <tiss:guiaSP_SADT>
+    <tiss:numeroGuia>796105837</tiss:numeroGuia>
+    <tiss:guiaPrincipal>796105836</tiss:guiaPrincipal>
+    <tiss:dadosBeneficiario>
+      <tiss:numeroCarteira>0010044578790358</tiss:numeroCarteira>
+      <tiss:nome>ICARO GLUCK</tiss:nome>
+    </tiss:dadosBeneficiario>
+    <tiss:dadosContratadoExecutante>
+      <tiss:nome>T A ESPACO TERAPEUTICO LTDA</tiss:nome>
+      <tiss:registroANS>346659</tiss:registroANS>
+    </tiss:dadosContratadoExecutante>
+    <tiss:procedimentosExecutados>
+      <tiss:procedimento>
+        <tiss:codigoProcedimento>50000470</tiss:codigoProcedimento>
+        <tiss:descricaoProcedimento>SESSAO DE PSICOTERAPIA INDIVIDUAL POR PSICOLOGO</tiss:descricaoProcedimento>
+        <tiss:quantidade>12</tiss:quantidade>
+        <tiss:dataRealizacao>27/08/2026</tiss:dataRealizacao>
+      </tiss:procedimento>
+    </tiss:procedimentosExecutados>
+  </tiss:guiaSP_SADT>
+</tiss:mensagemTISS>
